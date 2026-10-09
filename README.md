@@ -9,11 +9,11 @@
 ```
 
 ```bash
-world@aexinide:~$ whoami
+aexinide@github:~$ whoami
 aexinide
 
-world@aexinide:~$ cat about.txt
-No name. No face. Just the work.
+aexinide@github:~$ cat about.txt
+I build where intelligence meets the machine.
 
 Exploring the intersection of AI, robotics, Linux systems,
 and quantum computing.
@@ -21,19 +21,21 @@ and quantum computing.
 Closer to the metal.
 Less overhead. More intelligence.
 
-world@aexinide:~$ ls ~/focus/
+aexinide@github:~$ ls ~/focus/
 ai-architectures/  embodied-robotics/
 linux-kernels/     quantum-systems/
 ```
 
-### `world@aexinide:~$ ls ~/projects/`
+```bash
+aexinide@github:~$ ls ~/projects/
+```
 
 * **[edgevla-kernel](https://github.com/aexinide/edgevla-kernel)** — Vision-Language-Action runtime for edge hardware.
 * **[aerort-linux](https://github.com/aexinide/aerort-linux)** — Real-time Linux scheduling for autonomous and aerospace systems.
 * **[q-circuit-ai](https://github.com/aexinide/q-circuit-ai)** — Graph neural networks for quantum error correction.
 
 ```bash
-world@aexinide:~$ cat contact.txt
+aexinide@github:~$ cat contact.txt
 ```
 
 * `web`     → https://aexinide.github.io/
@@ -41,10 +43,10 @@ world@aexinide:~$ cat contact.txt
 * `matrix`  → @aexinide:matrix.org
 
 ```bash
-world@aexinide:~$ fortune
-"We are not building tools anymore. We are drafting our own successors
-and calling it progress."
-                                      — aexinide
+aexinide@github:~$ fortune
+"Some questions are better answered with an experiment."
+                                                          — aexinide
 
-world@aexinide:~$ █
+
+aexinide@github:~$ █
 ```
