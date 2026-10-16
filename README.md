@@ -30,7 +30,7 @@ linux-kernels/     quantum-systems/
 aexinide@github:~$ ls ~/projects/
 ```
 
-* **[edgevla-kernel](https://github.com/aexinide/edgevla-kernel)** — Vision-Language-Action runtime for edge hardware.
+* **[Aex Search](https://github.com/aexinide/aex-search)** — GNOME Shell extension for fast popup search across applications, files, folders, and file contents.
 * **[aerort-linux](https://github.com/aexinide/aerort-linux)** — Real-time Linux scheduling for autonomous and aerospace systems.
 * **[q-circuit-ai](https://github.com/aexinide/q-circuit-ai)** — Graph neural networks for quantum error correction.
 
