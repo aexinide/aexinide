@@ -38,7 +38,7 @@ aexinide@github:~$ ls ~/projects/
 aexinide@github:~$ cat contact.txt
 ```
 
-* `web`     → https://aexinide.github.io/
+* `web`     → https://aexinide.github.io/  and  https://aexinide.is-a.dev/
 * `mail`    → [aexinide@gmail.com](mailto:aexinide@gmail.com)
 * `matrix`  → @aexinide:matrix.org
 
