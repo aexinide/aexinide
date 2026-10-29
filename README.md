@@ -31,15 +31,14 @@ aexinide@github:~$ ls ~/projects/
 ```
 
 * **[Aex Search](https://github.com/aexinide/aex-search)** — GNOME Shell extension for fast popup search across applications, files, folders, and file contents.
-* **[aerort-linux](https://github.com/aexinide/aerort-linux)** — Real-time Linux scheduling for autonomous and aerospace systems.
-* **[q-circuit-ai](https://github.com/aexinide/q-circuit-ai)** — Graph neural networks for quantum error correction.
+
 
 ```bash
 aexinide@github:~$ cat contact.txt
 ```
 
-* `web`     → https://aexinide.github.io/  and  https://aexinide.is-a.dev/
-* `mail`    → [aexinide@gmail.com](mailto:aexinide@gmail.com)
+* `web`     → https://aexinide.github.io/  and  https://aexinide.is-a.dev/ and https://aexinide.me/
+* `mail`    → username [at] gmail [dot] com
 * `matrix`  → @aexinide:matrix.org
 
 ```bash
